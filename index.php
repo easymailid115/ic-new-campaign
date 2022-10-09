@@ -1,4 +1,5 @@
 <?php
+date_default_timezone_set('Asia/Kolkata');
 include('PHPMailer/class.phpmailer.php');
 include('PHPMailer/class.smtp.php');
 $msg="";
