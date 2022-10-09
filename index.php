@@ -351,7 +351,8 @@ body{
               </div>
 
             </form>
-            <p style="letter-spacing: .5px;">2. Online Document Verification</p>
+            <p style="letter-spacing: .5px;">2. Online Document Verification</p><br>
+            <p style="letter-spacing: .5px;">3. Get ICICI virtual Credit Card</p>
         </div>
       </div>
     </div>
