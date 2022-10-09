@@ -222,11 +222,9 @@ label{
               </div>
               <div class="row">
                   <img src="img/checked.png" style="width: 20px; float: left; margin-right: 5px; margin-left: 2px;">
-                  <label for="age3"> <span style="font-size: 18px; color: #000;"> 1. Personal Details</span></label><br><br>
-                  <img src="img/checked.png" style="width: 20px; float: left; margin-right: 5px; margin-left: 2px;">
-                  <label for="age3"> <span style="font-size: 18px; color: #000;"> 2. Current Residential Address</span></label><br><br>
+                  <label for="age3"> <span style="font-size: 18px; color: #000;"> 1. Personal Details</span></label><br><br>                  
                   <input type="radio" id="age1" name="age">
-                  <label for="age3"> <span style="font-size: 18px; color: #000;"> 3. Online documents verification</span></label>
+                  <label for="age3"> <span style="font-size: 18px; color: #000;"> 2. Online documents verification</span></label>
               </div>
 
               <div class="row">
