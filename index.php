@@ -351,9 +351,7 @@ body{
               </div>
 
             </form>
-            <!-- <p>2. Professional Details</p> -->
-            <p style="letter-spacing: .5px;">2. Current Residential Address</p><br>
-            <p style="letter-spacing: .5px;">3. Online Document Verification</p>
+            <p style="letter-spacing: .5px;">2. Online Document Verification</p>
         </div>
       </div>
     </div>
